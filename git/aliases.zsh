@@ -18,3 +18,4 @@ alias gco='git checkout'
 alias gcb='git copy-branch-name'
 alias gb='git branch'
 alias gst='git status -sb' # upgrade your git if -sb breaks for you. it's fun.
+alias gau='git add --update'

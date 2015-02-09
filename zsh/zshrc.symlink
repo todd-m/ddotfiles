@@ -38,4 +38,10 @@ do
   source $file
 done
 
+# set up aliases
+source ~/ddotfiles/git/aliases.zsh
+source ~/ddotfiles/zsh/aliases.zsh
+
 unset config_files
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
