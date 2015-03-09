@@ -5,4 +5,4 @@ alias reload!='. ~/.zshrc'
 alias bi='bundle install'
 alias be='bundle exec'
 
-alias dude='git status'
+alias sub='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
